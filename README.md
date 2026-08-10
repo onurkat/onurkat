@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.okteknoloji.com/commerce-runtime-reload"><b>Reclazz</b></a>&nbsp;&nbsp;→&nbsp;&nbsp;free hot-reload for SAP Commerce &amp; Spring. The open answer to JRebel.
+  <a href="https://onurkat.com/reclazz"><b>Reclazz</b></a>&nbsp;&nbsp;→&nbsp;&nbsp;free hot-reload for SAP Commerce &amp; Spring. The open answer to JRebel.
   <br /><br />
   <a href="https://www.ondevtools.com"><b>ondevtools</b></a>&nbsp;&nbsp;→&nbsp;&nbsp;221+ developer tools that run entirely in your browser. Free forever.
 </p>
