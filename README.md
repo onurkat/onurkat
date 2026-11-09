@@ -26,6 +26,14 @@
   <a href="https://www.onurkat.com/reclazz"><b>Reclazz</b></a>&nbsp;&nbsp;→&nbsp;&nbsp;free hot-reload for SAP Commerce &amp; Spring. The open answer to JRebel.
   <br /><br />
   <a href="https://www.ondevtools.com"><b>ondevtools</b></a>&nbsp;&nbsp;→&nbsp;&nbsp;221+ developer tools that run entirely in your browser. Free forever.
+  <br /><br />
+  <a href="https://www.onurkat.com/scrub/"><b>Scrub</b></a>&nbsp;&nbsp;→&nbsp;&nbsp;anonymise names, emails and secrets before they reach ChatGPT or Claude, then restore them in the answer. Runs locally.
+  <br />
+  <sub><a href="https://chromewebstore.google.com/detail/lfifgoaaglaehcdcmobcejgpgaepfgba">Chrome</a>&nbsp;·&nbsp;<a href="https://microsoftedge.microsoft.com/addons/detail/gepoimddcmckcdpgigfadmceeifjmhgm">Edge</a>&nbsp;·&nbsp;<a href="https://github.com/onurkat/scrub-desktop">Desktop (Linux, macOS, Windows)</a>&nbsp;·&nbsp;<a href="https://github.com/onurkat/homebrew-scrub">CLI &amp; Claude Code hook</a></sub>
+  <br /><br />
+  <a href="https://www.onurkat.com/inkmark/"><b>Inkmark</b></a>&nbsp;&nbsp;→&nbsp;&nbsp;sign, redact and Bates-number PDFs in your browser. Nothing is uploaded. Free.
+  <br />
+  <sub><a href="https://chromewebstore.google.com/detail/nmpbgeklbmghmkdlkgoaanmcmgdhmile">Chrome</a>&nbsp;·&nbsp;<a href="https://microsoftedge.microsoft.com/addons/detail/nekhggbehnhnhbdpcpjokbbndhhabegm">Edge</a>&nbsp;·&nbsp;<a href="https://www.onurkat.com/inkmark/viewer.html">Web app</a></sub>
 </p>
 
 <p align="center">
