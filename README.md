@@ -29,11 +29,11 @@
   <br /><br />
   <a href="https://www.onurkat.com/scrub/"><b>Scrub</b></a>&nbsp;&nbsp;→&nbsp;&nbsp;anonymise names, emails and secrets before they reach ChatGPT or Claude, then restore them in the answer. Runs locally.
   <br />
-  <sub><a href="https://chromewebstore.google.com/detail/lfifgoaaglaehcdcmobcejgpgaepfgba">Chrome</a>&nbsp;·&nbsp;<a href="https://microsoftedge.microsoft.com/addons/detail/gepoimddcmckcdpgigfadmceeifjmhgm">Edge</a>&nbsp;·&nbsp;<a href="https://apps.microsoft.com/detail/9PJ0NKMT45S4">Microsoft Store</a>&nbsp;·&nbsp;<a href="https://github.com/onurkat/scrub-desktop">Desktop (Linux, macOS)</a>&nbsp;·&nbsp;<a href="https://github.com/onurkat/homebrew-scrub">CLI &amp; Claude Code hook</a></sub>
+  <sub><a href="https://chromewebstore.google.com/detail/lfifgoaaglaehcdcmobcejgpgaepfgba">Chrome</a>&nbsp;·&nbsp;<a href="https://microsoftedge.microsoft.com/addons/detail/gepoimddcmckcdpgigfadmceeifjmhgm">Edge</a>&nbsp;·&nbsp;<a href="https://addons.mozilla.org/firefox/addon/scrub-anonymise/">Firefox</a>&nbsp;·&nbsp;<a href="https://apps.microsoft.com/detail/9PJ0NKMT45S4">Microsoft Store</a>&nbsp;·&nbsp;<a href="https://github.com/onurkat/scrub-desktop">Desktop (Linux, macOS)</a>&nbsp;·&nbsp;<a href="https://github.com/onurkat/homebrew-scrub">CLI &amp; Claude Code hook</a></sub>
   <br /><br />
   <a href="https://www.onurkat.com/inkmark/"><b>Inkmark</b></a>&nbsp;&nbsp;→&nbsp;&nbsp;sign, redact and Bates-number PDFs in your browser. Nothing is uploaded. Free.
   <br />
-  <sub><a href="https://chromewebstore.google.com/detail/nmpbgeklbmghmkdlkgoaanmcmgdhmile">Chrome</a>&nbsp;·&nbsp;<a href="https://microsoftedge.microsoft.com/addons/detail/nekhggbehnhnhbdpcpjokbbndhhabegm">Edge</a>&nbsp;·&nbsp;<a href="https://www.onurkat.com/inkmark/viewer.html">Web app</a></sub>
+  <sub><a href="https://chromewebstore.google.com/detail/nmpbgeklbmghmkdlkgoaanmcmgdhmile">Chrome</a>&nbsp;·&nbsp;<a href="https://microsoftedge.microsoft.com/addons/detail/nekhggbehnhnhbdpcpjokbbndhhabegm">Edge</a>&nbsp;·&nbsp;<a href="https://addons.mozilla.org/firefox/addon/inkmark/">Firefox</a>&nbsp;·&nbsp;<a href="https://www.onurkat.com/inkmark/viewer.html">Web app</a></sub>
 </p>
 
 <p align="center">
